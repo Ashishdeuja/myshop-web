@@ -26,7 +26,7 @@ SECRET_KEY = 'u47=yma1h6sf=ertk=*%ga^_(1x_d&n571cn%qx#c0sq_&_6ww'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myshop-web.herokuapp.com']
 
 
 # Application definition
