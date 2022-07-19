@@ -1,4 +1,5 @@
-﻿amqp==2.6.1
+python==3.8
+amqp==2.6.1
 appdirs==1.4.4
 arabic-reshaper==2.1.3
 asgiref==3.5.2
